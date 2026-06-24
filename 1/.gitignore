@@ -1,0 +1,38 @@
+# Build outputs
+Debug/
+Release/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.sdf
+*.suo
+*.user
+*.ncb
+*.aps
+
+# Visual Studio
+.vs/
+*.sln.docstates
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Obsidian
+.obsidian/
+
+# Graphify cache
+.graphify_cached.json
+graphify-out/
+
+# Game runtime data
+best_score.txt
+player_save.txt
+
+# Claude Code
+.claude/
